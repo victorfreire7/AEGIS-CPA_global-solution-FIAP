@@ -12,4 +12,6 @@ TinkerCad: https://www.tinkercad.com/things/iOqmkOrGqYm-global-solution-computer
 
 Youtube: https://youtu.be/XpxYirZcems?si=9HLMhK7j7g5y7glS
 
+---
+
 github:https://github.com/victorfreire7/AEGIS-CPA_global-solution-FIAP
