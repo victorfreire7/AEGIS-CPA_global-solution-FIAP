@@ -1,7 +1,9 @@
 ADICIONAR NO RELATORIO TECNICO DEPOIS:
 
 Victor Hugo Ferreira Freire: 571099
+
 Julian: 572603
+
 Timothée Campos Ferraz: 568688
 
 ---
